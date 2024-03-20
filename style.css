@@ -1,0 +1,19 @@
+.normal, .big{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 18px;
+}
+
+.big{
+    font-size: 24px;
+}
+
+#Second{
+    color: blue;
+    font-size: 36px;
+}
+
+#Fourth{
+    background-color: green;
+    font-size: 24px;
+}
